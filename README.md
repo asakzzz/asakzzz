@@ -1,15 +1,14 @@
-# About me :
+## About me :
 
-  I'm french EPITECH student. I love programming and videogames.
+  I'm a french EPITECH student. I love programming and videogames.
 
 
-# Languages : 
+## Languages : 
 
-  English/French (duh)
+  English ( ETS TOEIC : 870)
+  French (Native)
 
-  Python, Javascript/Typescript , C++, SQL, HTML/CSS.
-
-# Soft skills : 
+## Soft skills : 
 
   Communication
   Leadership
@@ -17,7 +16,15 @@
   Adaptability
   Problem solving
 
-# Hard skills : 
+## Hard skills : 
 
+  Python, Javascript/Typescript , C++, SQL, HTML/CSS.
+  Hardware and software
+  Networking and Cybersecurity
+  Driver liscence
+  Customer service
+  
+
+  
   
 
