@@ -1,14 +1,23 @@
-## Hi there 👋
+# About me :
 
-**asakzzz/asakzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  I'm french EPITECH student. I love programming and videogames.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Languages : 
+
+  English/French (duh)
+
+  Python, Javascript/Typescript , C++, SQL, HTML/CSS.
+
+# Soft skills : 
+
+  Communication
+  Leadership
+  Understanding
+  Adaptability
+  Problem solving
+
+# Hard skills : 
+
+  
+
