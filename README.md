@@ -5,26 +5,21 @@
 
 ## Languages : 
 
-  English ( ETS TOEIC : 870)
-  French (Native)
+  - English ( ETS TOEIC : 870)
+  - French (Native)
 
 ## Soft skills : 
 
-  Communication
-  Leadership
-  Understanding
-  Adaptability
-  Problem solving
+  - Communication
+  - Leadership
+  - Understanding
+  - Adaptability
+  - Problem solving
 
 ## Hard skills : 
 
-  Python, Javascript/Typescript , C++, SQL, HTML/CSS.
-  Hardware and software
-  Networking and Cybersecurity
-  Driver liscence
-  Customer service
-  
-
-  
-  
-
+  - Python, Javascript/Typescript , C++, SQL, HTML/CSS.
+  - Hardware and software
+  - Networking and Cybersecurity
+  - Driver liscence
+  - Customer service
